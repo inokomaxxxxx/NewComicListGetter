@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewSample</string>
+
+
+         <string name="hello_world">新刊チェック！</string>
+         <string name="text1">以下のタイトルが本日発売です。</string>
+    <string name="action_settings">Settings</string>
+</resources>
